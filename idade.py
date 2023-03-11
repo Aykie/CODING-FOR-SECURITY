@@ -4,3 +4,4 @@ anoat = int(input("Qual é o ano atual?"))
 calc = anoat - nasc
 
 print("Você tem ou vai fazer:", calc)
+
