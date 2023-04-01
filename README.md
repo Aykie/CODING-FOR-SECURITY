@@ -17,6 +17,7 @@
   
 <br>
   
-  <h3>Objetivo:</h3>
+  <h3>Objetivo:
+  </h3>
   <br>
   Elaborar um programa em linguagem <a href="https://www.python.org/"> Python </a>que leia um número inteiro N e, em seguida, mostre na tela os N primeiros termos da sequência de Fibonacci. O valor de N sendo no mínimo 2.
