@@ -29,3 +29,9 @@ Em seguida, o código entra em um loop infinito que permite ao usuário continua
 A função exibe os dois primeiros termos e, em seguida, usa um loop "for" para exibir os termos restantes. Para cada número na sequência (exceto os dois primeiros), a função calcula o terceiro termo, exibe-o e atualiza os dois primeiros termos. Quando a sequência é concluída, a função imprime "end sequence".
 
 Por fim, o usuário é perguntado se deseja continuar ou sair do programa. Se a resposta for "N", o loop infinito é quebrado e o programa é encerrado.
+
+
+
+'''
+print("Hello World")
+'''
