@@ -16,7 +16,7 @@
 <h2> Checkpoint 24/03/2023 </h2>
   
   <h3>Objetivo:</h3>
-  Elaborar um programa em linguagem <a href="https://www.python.org/"> Python </a>que leia um número inteiro N e, em seguida, mostre na tela os N primeiros termos da sequência de Fibonacci. O valor de N sendo no mínimo 2. <br>
+  Elaborar um programa em linguagem <a href="https://www.python.org/"> Python </a>que leia um número inteiro N e, em seguida, mostre na tela os N primeiros termos da sequência de Fibonacci. O valor de N sendo no mínimo 2.
   * Editor Utilizado: <a href="https://code.visualstudio.com/"> Visual Studio Code</a>.
   
   <h3>Explicação do código:</h3>
