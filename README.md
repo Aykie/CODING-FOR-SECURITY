@@ -12,5 +12,5 @@
 </a>
 
 # CODING-FOR-SECURITY
-<br><br>
+<br>
 <h2> Checkpoint 1
