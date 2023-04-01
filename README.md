@@ -16,7 +16,7 @@
 <h2> Checkpoint 24/04/2023 <h2>
   
 <br>
-Objetivo:<br>
+<h1> Objetivo: <h1><br>
   Elabore um programa em linguagem Python que leia um número 
 inteiro N e, em seguida, mostre na tela os N primeiros termos da 
 sequência de Fibonacci. Faça o programa de modo que o valor de N 
