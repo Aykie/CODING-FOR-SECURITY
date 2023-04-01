@@ -1,5 +1,5 @@
 <a href="https://www.fiap.com.br/">
-<img src="fiap.png" width="130" height="80">
+<img src="fiap.png" width="140" height="80">
 </a> <br>
 
 
