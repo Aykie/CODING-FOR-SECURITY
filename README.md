@@ -33,7 +33,7 @@ Por fim, o usuário é perguntado se deseja continuar ou sair do programa. Se a 
 <br>
 
 ```
-
+```
 
 <h3>**Colaboradores:**</h3> <br>
 
