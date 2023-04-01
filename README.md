@@ -7,7 +7,7 @@
 <img src="ig.png">
 </a>
 
-<a href="https://www.instagram.com/fiapoficial/">
+<a href="https://www.youtube.com/@FiapBrasil">
 <img src="yt.png">
 </a>
 
