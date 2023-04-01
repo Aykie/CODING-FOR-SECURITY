@@ -30,8 +30,12 @@ A função exibe os dois primeiros termos e, em seguida, usa um loop "for" para 
 
 Por fim, o usuário é perguntado se deseja continuar ou sair do programa. Se a resposta for "N", o loop infinito é quebrado e o programa é encerrado.
 
+<br>
+
+```
 
 
-'''
-print("Hello World")
-'''
+<h3>**Colaboradores:**</h3> <br>
+
+<a href="https://github.com/CazedaFIAP"> Caio Godoy</a>, <a href="https://github.com/Aykie"> Júlia Barboza Brunelli</a>, <a href="https://github.com/NCalegariS"> Nicholas Calegari</a>, <a href="https://github.com/WHrez1ns"> Renan Dias</a> e <a href=""> Victor Tosto</a>
+
